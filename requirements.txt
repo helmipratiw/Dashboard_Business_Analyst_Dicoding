@@ -2,4 +2,4 @@ pandas==2.0.3
 streamlit==1.31.1
 matplotlib==3.7.2
 seaborn==0.12.2
-babel.numbers==2.11.0
+babel==2.11.0
